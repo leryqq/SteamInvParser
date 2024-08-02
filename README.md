@@ -13,7 +13,7 @@ App IDs:
 
 JSON Example:
 
-`[
+```[
   {
         "id": "2224257603",
         "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfx_LLZTRB7dCJlZG0k_b5MqjSg3husZVOhuDG_Zi72FfgqkFlamDzLYDAJgc3YAnT-AO4we27jJ-4vJ_KwXU27yEl4H-Inwv3309_vsrdoQ",
@@ -24,4 +24,4 @@ JSON Example:
         "market_hash_name": "★ Huntsman Knife | Damascus Steel (Factory New)"
   },
   ...
-`
+```
